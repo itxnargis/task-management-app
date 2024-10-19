@@ -15,8 +15,9 @@ The Task Management App is a simple, user-friendly application that allows users
 
 ## Technologies Used
 
-- **React**: The application is built using React for a component-based architecture.
-- **CSS**: Styling is done using CSS to create a responsive and user-friendly interface.
+- **Next.js**: A React framework for server-side rendering and static site generation.
+- **React**: For building the user interface using components.
+- **CSS**: For styling the application and creating a responsive design.
 
 ## Installation
 
